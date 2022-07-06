@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.helping-hand {
+    background: linear-gradient(transparent, rgb(0, 0, 0));
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.first-h1 {
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    padding-top: 120px;
+}
+
+.first-p {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    padding-top: 35px;
+}
+
+.btn-1 {
+    text-decoration: none;
+    background-color: rgb(238, 64, 64);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+
+.button {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.second-p {
+    padding-top: 100px;
+    font-size: 35px;
+    text-align: center;
+    font-family: poppins;
+    font-weight: 700;
+}
+
+.third-p {
+    padding-top: 10px;
+    text-align: center;
+    color: gray;
+}
+
+.flexible-container {
+    display: flex;
+    margin: 50px;
+    padding-left: 300px;
+    text-align: center;
+}
+
+.tk-100 {
+    font-size: 30px;
+    color: gray;
+    height: 100px;
+    width: 100px;
+    font-weight: 700;
+    padding-top: 35px;
+    padding-right: 50px;
+}
+
+.tk-200 {
+    border: 2px solid rgb(238, 64, 64);
+    border-radius: 5px;
+    background-color: rgb(240, 222, 208);
+    color: rgb(238, 64, 64);
+    height: 100px;
+    width: 100px;
+    text-align: start;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.middle {
+    text-align: center;
+    padding-top: 35%;
+
+}
+
+.tk-500 {
+    font-size: 30px;
+    color: gray;
+    height: 100px;
+    width: 100px;
+    font-weight: 700;
+    padding-left: 50px;
+    padding-top: 35px;
+}
+
+.tk-1000 {
+    font-size: 30px;
+    color: gray;
+    height: 100px;
+    width: 100px;
+    font-weight: 700;
+    padding-left: 50px;
+    padding-top: 35px;
+}
+
+.tk-5000 {
+    font-size: 30px;
+    color: gray;
+    height: 100px;
+    width: 100px;
+    font-weight: 700;
+    padding-left: 50px;
+    padding-top: 35px;
+}
